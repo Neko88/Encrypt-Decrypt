@@ -1,0 +1,9 @@
+==================================================
+Program name: Encrypt
+By: Jason Lui
+Description: To create programs to encrypt and decrypt simple encryption tools
+==================================================
+December 25,2019 - Created encryption and decryption for rail_fence and four_winds
+December 26,2019 - Create encryption for caesar shift, complete columnar and red fence. Created decryption for caesar shift
+December 27,2019 - Created decryption for complete columnar
+December 28,2019 - Created decryption for red fence
